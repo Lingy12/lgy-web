@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.82937609.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.52bef38f.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.52bef38f.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.0138d583.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.0138d583.js.map",
+    "static/css/2.242f24fe.chunk.css": "/my-portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.4dc4c31b.chunk.js": "/my-portfolio/static/js/2.4dc4c31b.chunk.js",
+    "static/js/2.4dc4c31b.chunk.js.map": "/my-portfolio/static/js/2.4dc4c31b.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.58e8fc9d40314b4bbea17b929b694b7e.js": "/my-portfolio/precache-manifest.58e8fc9d40314b4bbea17b929b694b7e.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/my-portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.82937609.chunk.css.map": "/my-portfolio/static/css/main.82937609.chunk.css.map",
+    "static/js/2.4dc4c31b.chunk.js.LICENSE": "/my-portfolio/static/js/2.4dc4c31b.chunk.js.LICENSE",
+    "static/media/CS3244.png": "/my-portfolio/static/media/CS3244.a523306b.png",
+    "static/media/EsenseLog.png": "/my-portfolio/static/media/EsenseLog.0fd00df2.png",
+    "static/media/IntelliJournal.png": "/my-portfolio/static/media/IntelliJournal.4d7749b2.png",
+    "static/media/earth.jpg": "/my-portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/my-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/my-portfolio/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/my-portfolio/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/my-portfolio/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/my-portfolio/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/my-portfolio/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/my-portfolio/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/my-portfolio/static/media/ionicons.621bd386.svg",
+    "static/media/learn.jpeg": "/my-portfolio/static/media/learn.ac8dd835.jpeg",
+    "static/media/machine_learning_pipeline.png": "/my-portfolio/static/media/machine_learning_pipeline.6e5becdf.png",
+    "static/media/male.png": "/my-portfolio/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/my-portfolio/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/my-portfolio/static/media/myImage.bd80794f.png",
+    "static/media/nus_logo.jpeg": "/my-portfolio/static/media/nus_logo.4ccd71bc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0138d583.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.4dc4c31b.chunk.js",
+    "static/css/main.82937609.chunk.css",
+    "static/js/main.52bef38f.chunk.js"
+  ]
+}
