@@ -6,26 +6,32 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "Java_skill", content: "Java", porcentage: "90%", value: "90" },
-        { id: "C++_skill", content: "C++", porcentage: "90%", value: "90" },
         {
           id: "Python_skill",
           content: "Python",
           porcentage: "90%",
           value: "90"
         },
-        {
-          id: "Tensorflow_skill",
-          content: "Tensorflow",
-          porcentage: "90%",
-          value: "90"
-        },
-        { id: "Pytorch_skill", content: "Pytorch", porcentage: "85%", value: "85" },
+        { id: "Pytorch_skill", content: "Pytorch", porcentage: "90%", value: "90" },
         {
           id: "Machine Learning_skill",
           content: "Machine Learning",
+          porcentage: "90%",
+          value: "90"
+        },
+        {
+          id: "Training_skill",
+          content: "Large Scale Model Training",
           porcentage: "80%",
           value: "80"
+        },
+        { id: "Java_skill", content: "Java", porcentage: "70%", value: "70" },
+        { id: "C++_skill", content: "C++", porcentage: "70%", value: "70" },
+        {
+          id: "Tensorflow_skill",
+          content: "Tensorflow",
+          porcentage: "70%",
+          value: "70"
         },
         {
           id: "SQL_skill",
