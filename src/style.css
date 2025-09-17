@@ -998,3 +998,74 @@ BUTTON
     bottom: 15px;
   }
 }
+
+/*--------------------------------------------------------------
+# Publications Section
+--------------------------------------------------------------*/
+.publications-mf {
+  background-color: #f8f9fa;
+}
+
+.publication-item {
+  margin-bottom: 1.5rem;
+}
+
+.publication-item .card {
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.publication-item .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1) !important;
+}
+
+.publication-title {
+  color: #1e2125;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.publication-authors {
+  color: #6c757d;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.publication-authors strong {
+  color: #0078ff;
+  font-weight: 600;
+}
+
+.publication-venue {
+  color: #495057;
+  font-size: 0.9rem;
+}
+
+.publication-year {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.award-badge {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.award-badge .fa-trophy {
+  margin-right: 4px;
+}
+
+@media (max-width: 768px) {
+  .publication-title {
+    font-size: 1.1rem;
+  }
+  
+  .publication-authors {
+    font-size: 0.9rem;
+  }
+  
+  .publication-venue {
+    font-size: 0.85rem;
+  }
+}
