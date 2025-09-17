@@ -16,11 +16,10 @@ class Experience extends React.Component {
                     company: "Institute for Infocomm Research, Agency of Science Technology & Research",
                     logo: i2r,
                     title: "Research Engineer",
-                    Responsibility: ["Design System for Automatic Speech Evaluation demo website and implement it", 
-                        "Develop training code using pytorch and transformers for Automatic Speech Evaluation (ASR) and Large Language Model (LLM) Training",
-                        "Improve LLM's multilingual consistency through a simple but effective approach (CrossIn)",
-                        "Adapt Whisper for Singlish and code switch",
-                        "Training infrastructure setup on different compute cluster"
+                    Responsibility: ["Customize distributed training pipeline which utilize mosaic, pytorch and transformers library to customize distributed behavior which scales the training to 320 H100 GPU cards and train the MERaLION 2 model, also finetuning the whisper towards Singapore local context.", 
+                        "Structured 200k hours open-sourced speech data into uniformed huggingface datasets format to support training of large speech foundation model.",
+                        "Research the methodologies of enhancing large language model to improve the multilingual consistency of the models using instruction finetuning.",
+                        "Build Pytorch model training pipeline to improve speech evaluation for unseen data by introducing objective metric combining with human label. "
                     ], 
                     Date: "2023 May - Present"
                 },

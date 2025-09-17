@@ -62,7 +62,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am a Computer Science student in National University of Singapore graduating in 2023. The left hand side progress bar shows the skills that I know and my confidence level."
+            "I am a Computer Science student in National University of Singapore graduated in 2023. The left hand side progress bar shows the skills that I know and my confidence level."
         },
         {
           id: "second-p-about",

@@ -13,6 +13,7 @@ import pip from "../img/machine_learning_pipeline.png"
 import osic from "../img/CS3244.png"
 import rl from "../img/rl.png"
 import learn from "../img/learn.jpeg"
+import meralion from "../img/meralion.png"
 
 class Portfolio extends React.Component {
   render() {
@@ -24,13 +25,39 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Project Gallary</h3>
                 <p className="subtitle-a">
-                  Here are some projects that I have done during my study time.
+                  Here are some projects that I have done during my study time and work experience.
                 </p>
                 <div className="line-mf"></div>
               </div>
             </div>
           </div>
           <div className="row">
+            <div className="col-md-4">
+              <div className="work-box">
+                <a href="https://huggingface.co/MERaLiON" target="_blank">
+                  <div className="work-img">
+                    <img src={meralion} alt="MERaLION placeholder" className="img-fluid" style={{height: '200px', objectFit: 'cover'}} />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-8">
+                        <h2 className="w-title">MERaLION</h2>
+                        <div className="w-more">
+                          <span className="w-ctegory">
+                            Singapore AudioLLM foundation Model
+                          </span>
+                        </div>
+                      </div>
+                      <div className="col-sm-4">
+                        <div className="w-like">
+                          <span className="ion-ios-plus-outline"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
             <div className="col-md-4">
               <div className="work-box">
                 <a href="https://github.com/Lingy12/ESenseLog" target="_blank">
